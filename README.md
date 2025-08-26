@@ -42,21 +42,12 @@ Libraries/Frameworks: Scikit-learn, TensorFlow/PyTorch, Pandas, NumPy, NLTK/Spac
 
 Frontend : Flask
 
-Dataset: self made dataset (or your preferable dataset)
+Dataset: self-made dataset (or your preferable dataset)
 
-📂 Project Structure
-📦 Fake-News-Detector
- ┣ 📂 data              # dataset
- ┣ 📂 models            # trained models
- ┣ 📂 notebooks         # Jupyter notebooks
- ┣ 📂 static / templates# frontend files
- ┣ 📜 app.py            # main application file
- ┣ 📜 requirements.txt  # dependencies
- ┣ 📜 README.md         # project documentation
 
 ⚙️ Installation & Usage
 # Clone the repository
-git clone https://github.com/CodingwithSam606/fake-news-detector.git
+git clone [https://github.com/CodingwithSam606/fake-news-detector.git](https://github.com/CodingwithSam606/fake-news-detection.git)
 
 # Navigate into the folder
 cd fake-news-detector
